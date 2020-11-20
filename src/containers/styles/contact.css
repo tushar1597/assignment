@@ -1,0 +1,57 @@
+.ctf-container{
+
+}
+.ctf-container .fm-heading{
+    font-size: 16px;
+    text-transform: uppercase;
+    text-align: center;
+    margin-top: 16px;
+}
+.ctf-container .ctf-form{
+    max-width: 460px;
+    width: 100%;
+    margin: 0 auto;
+}
+.ctf-container .fm-lbl{
+    margin:0;
+}
+.ctf-container .fm-inp{
+    margin-bottom:16px;
+    width: 100%;
+}
+.ctf-container .fm-btn{
+    width: 50%;
+    border: none;
+    outline: none;
+    cursor:pointer;
+}
+.ctf-container .fm-btn:hover{
+    text-decoration: underline;
+}
+.ctf-container .fm-sec{
+    display: flex;
+}
+.ctf-container .fm-link{
+    width: 49%;
+    padding: 8px;
+    margin-left: 1%;
+    background: #f2f2f2;
+    text-align: center;
+}
+.all-ct-container{
+    padding: 24px;
+}
+.all-ct-container .ac-heading{
+    font-weight: 600;
+}
+.all-ct-container td, .all-ct-container th{
+    min-width: 130px;
+    padding: 8px;
+}
+.all-ct-container .ad-ctc-link{
+    float: right;
+    margin-right: 24px;
+}
+.all-ct-container .ac-heading{
+    margin:0;
+}
